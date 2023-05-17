@@ -54,6 +54,9 @@ ${data.features}
 
 ## Tests
 ${data.tests}
+
+##Questions
+Please reach out with any questions:  ${data.email} or [Github](https://github.com/${data.github})
 `;
 }
 
